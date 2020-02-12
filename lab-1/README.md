@@ -1,6 +1,6 @@
 # lab-1
 
-Complie and run your first Java program.
+Compile and run your first Java program.
 
 ---
 
