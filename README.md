@@ -1,6 +1,10 @@
-# smu-cse-1341
+<div align="center">
+    <img src="https://cdn1.iconfinder.com/data/icons/file-extension-vol-1/48/Java_program_programming_file_extension-512.png" alt="logo" height="96">
+</div>
 
-Principle of Computer Science
+# smu-cse-1341-2013-spring
+
+Principle of Computer Science, 2013 Spring
 
 ## labs
 
